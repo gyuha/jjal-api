@@ -1,0 +1,21 @@
+{
+  "name": "01.graphql-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/duckduckgo-images-api": "^1.0.0",
+    "@types/graphql": "^14.5.0",
+    "apollo-server": "^2.9.2",
+    "duckduckgo-images-api": "^1.0.4",
+    "graphql": "^14.5.4",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^0.17.5"
+  }
+}
