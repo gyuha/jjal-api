@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "docker": "docker build -f \"Dockerfile\" -t jjal-api .",
+    "docker": "docker build -f \"Dockerfile\" -t gyuha/jjal-api .",
     "docker:push": "docker push gyuha/jjal-api",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
