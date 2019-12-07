@@ -2,6 +2,6 @@
 
 
 # jjal-api
-짤 API
+짤 검색 API
 
 실행 : https://endpoint.ainize.ai/gyuha/jjal-api/
